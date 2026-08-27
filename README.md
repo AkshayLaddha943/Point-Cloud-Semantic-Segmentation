@@ -1,7 +1,7 @@
 # Point-Cloud-Semantic-Segmentation
 Semantic Segmentation of KITTI Point Cloud Data using SqueezeSegV2
 
-## Network Architecture of the CNNs
+## Network Architecture of the CNN
 **Input Tensor:** Point Cloud as a 2D image (Range View Representation)  
 **Encoder:** Downsampling the Image  
 **Decoder:** Upsampling of the Intermediate Representation  
@@ -13,7 +13,7 @@ Semantic Segmentation of KITTI Point Cloud Data using SqueezeSegV2
 
 ## Steps to Reproduce
 - Jupyter Notebook (.ipynb) file is provided in order to customize and train your own model
-- A saved model is already provided in the models folder to evaluate
+- A saved model, trained against a subset of Semantic KITTI dataset is already provided in the models folder 
 - Evaluated on the ROSbag data provided by RWTH Aachen University
 
 ## Results
