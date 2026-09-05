@@ -17,11 +17,11 @@ Semantic Segmentation of KITTI Point Cloud Data using SqueezeSegV2
 - A saved model, is already provided in the models folder for reference
 
 ## Training
-The model has been trained for 20 epochs on Semantic KITTI Dataset featuring 11 classes.
+The model has been trained for 40 epochs on Semantic KITTI Dataset featuring 11 classes.
 
-| Model                                                                  | width x height | epochs | loss | miou | speed (/iteration) |
+| Model                                                                  | width x height x layer | epochs | loss | miou | avg speed (/iteration) |
 | ---------------------------------------------------------------------- | --------------------------- | -------------------------- | ------------------------------- | ------------------------------------ | -----------------------------------------
-| [SqueezeSegV2](https://platform.ultralytics.com/ultralytics/yolo26/yolo26n) | 240 x 32                         | 20                      | 40.1                            | 38.9 ± 0.7                           | 1.7 ± 0.0                                 |                     
+| [SqueezeSegV2](https://platform.ultralytics.com/ultralytics/yolo26/yolo26n) | 240 x 32 x 6                       | 40                      | 0.4345                            | 40.37%                           | 320ms/step                                 |                     
 
 
 ## Results
