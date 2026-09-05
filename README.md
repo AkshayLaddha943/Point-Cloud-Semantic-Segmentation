@@ -21,7 +21,7 @@ The model has been trained for 20 epochs on Semantic KITTI Dataset featuring 11 
 
 | Model                                                                  | width x height | epochs | loss | miou | params<br><sup>(M)</sup> | FLOPs<br><sup>(B)</sup> |
 | ---------------------------------------------------------------------- | --------------------------- | -------------------------- | ------------------------------- | ------------------------------------ | ----------------------------------------- | ------------------------ | ----------------------- |
-| [SqueezeSegV2](https://platform.ultralytics.com/ultralytics/yolo26/yolo26n) | 240 x 32                         | 20                      | 40.1                            | 38.9 ± 0.7                           | 1.7 ± 0.0                                 | 2.4                      | 5.5                     |
+| [SqueezeSegV2](https://platform.ultralytics.com/ultralytics/yolo26/yolo26n) | 240 x 32                         | 20                      | 40.1                            | 38.9 ± 0.7                           | 1.7 ± 0.0                                 | 2.4                      
 
 
 ## Results
