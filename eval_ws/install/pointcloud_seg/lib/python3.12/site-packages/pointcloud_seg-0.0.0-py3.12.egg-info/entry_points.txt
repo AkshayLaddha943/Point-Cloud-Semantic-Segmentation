@@ -1,0 +1,2 @@
+[console_scripts]
+pointcloud_segmentation = pointcloud_seg.point_cloud_segmentation:main

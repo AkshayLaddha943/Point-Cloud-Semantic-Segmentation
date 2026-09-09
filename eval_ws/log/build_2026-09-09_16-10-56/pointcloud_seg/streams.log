@@ -1,0 +1,27 @@
+[0.536s] Invoking command in '/home/akshladdhs/eval_ws/src/pointcloud_seg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/akshladdhs/eval_ws/build/pointcloud_seg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akshladdhs/eval_ws/install/pointcloud_seg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pointcloud_seg build --build-base /home/akshladdhs/eval_ws/build/pointcloud_seg/build install --record /home/akshladdhs/eval_ws/build/pointcloud_seg/install.log --install-scripts $base/lib/pointcloud_seg --single-version-externally-managed install_data
+[0.728s] running egg_info
+[0.743s] writing ../../build/pointcloud_seg/pointcloud_seg.egg-info/PKG-INFO
+[0.743s] writing dependency_links to ../../build/pointcloud_seg/pointcloud_seg.egg-info/dependency_links.txt
+[0.743s] writing entry points to ../../build/pointcloud_seg/pointcloud_seg.egg-info/entry_points.txt
+[0.744s] writing requirements to ../../build/pointcloud_seg/pointcloud_seg.egg-info/requires.txt
+[0.744s] writing top-level names to ../../build/pointcloud_seg/pointcloud_seg.egg-info/top_level.txt
+[0.775s] reading manifest file '../../build/pointcloud_seg/pointcloud_seg.egg-info/SOURCES.txt'
+[0.775s] writing manifest file '../../build/pointcloud_seg/pointcloud_seg.egg-info/SOURCES.txt'
+[0.775s] running build
+[0.776s] running build_py
+[0.776s] copying pointcloud_seg/point_cloud_segmentation.py -> /home/akshladdhs/eval_ws/build/pointcloud_seg/build/lib/pointcloud_seg
+[0.776s] copying pointcloud_seg/__init__.py -> /home/akshladdhs/eval_ws/build/pointcloud_seg/build/lib/pointcloud_seg
+[0.776s] running install
+[0.778s] running install_lib
+[0.794s] running install_data
+[0.794s] copying resource/pointcloud_seg -> /home/akshladdhs/eval_ws/install/pointcloud_seg/share/ament_index/resource_index/packages
+[0.794s] copying package.xml -> /home/akshladdhs/eval_ws/install/pointcloud_seg/share/pointcloud_seg
+[0.794s] copying launch/pointcloud_segmentation_r2.launch.py -> /home/akshladdhs/eval_ws/install/pointcloud_seg/share/pointcloud_seg/launch
+[0.794s] copying config/params.yaml -> /home/akshladdhs/eval_ws/install/pointcloud_seg/share/pointcloud_seg/config
+[0.794s] running install_egg_info
+[0.809s] removing '/home/akshladdhs/eval_ws/install/pointcloud_seg/lib/python3.12/site-packages/pointcloud_seg-0.0.0-py3.12.egg-info' (and everything under it)
+[0.809s] Copying ../../build/pointcloud_seg/pointcloud_seg.egg-info to /home/akshladdhs/eval_ws/install/pointcloud_seg/lib/python3.12/site-packages/pointcloud_seg-0.0.0-py3.12.egg-info
+[0.810s] running install_scripts
+[0.841s] Installing pointcloud_segmentation script to /home/akshladdhs/eval_ws/install/pointcloud_seg/lib/pointcloud_seg
+[0.841s] writing list of installed files to '/home/akshladdhs/eval_ws/build/pointcloud_seg/install.log'
+[0.853s] Invoked command in '/home/akshladdhs/eval_ws/src/pointcloud_seg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/akshladdhs/eval_ws/build/pointcloud_seg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akshladdhs/eval_ws/install/pointcloud_seg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pointcloud_seg build --build-base /home/akshladdhs/eval_ws/build/pointcloud_seg/build install --record /home/akshladdhs/eval_ws/build/pointcloud_seg/install.log --install-scripts $base/lib/pointcloud_seg --single-version-externally-managed install_data

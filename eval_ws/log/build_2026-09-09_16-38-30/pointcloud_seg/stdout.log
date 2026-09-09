@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/pointcloud_seg/pointcloud_seg.egg-info/PKG-INFO
+writing dependency_links to ../../build/pointcloud_seg/pointcloud_seg.egg-info/dependency_links.txt
+writing entry points to ../../build/pointcloud_seg/pointcloud_seg.egg-info/entry_points.txt
+writing requirements to ../../build/pointcloud_seg/pointcloud_seg.egg-info/requires.txt
+writing top-level names to ../../build/pointcloud_seg/pointcloud_seg.egg-info/top_level.txt
+reading manifest file '../../build/pointcloud_seg/pointcloud_seg.egg-info/SOURCES.txt'
+writing manifest file '../../build/pointcloud_seg/pointcloud_seg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying pointcloud_seg/point_cloud_segmentation.py -> /home/akshladdhs/eval_ws/build/pointcloud_seg/build/lib/pointcloud_seg
+copying pointcloud_seg/__init__.py -> /home/akshladdhs/eval_ws/build/pointcloud_seg/build/lib/pointcloud_seg
+running install
+running install_lib
+copying /home/akshladdhs/eval_ws/build/pointcloud_seg/build/lib/pointcloud_seg/point_cloud_segmentation.py -> /home/akshladdhs/eval_ws/install/pointcloud_seg/lib/python3.12/site-packages/pointcloud_seg
+byte-compiling /home/akshladdhs/eval_ws/install/pointcloud_seg/lib/python3.12/site-packages/pointcloud_seg/point_cloud_segmentation.py to point_cloud_segmentation.cpython-312.pyc
+running install_data
+copying resource/pointcloud_seg -> /home/akshladdhs/eval_ws/install/pointcloud_seg/share/ament_index/resource_index/packages
+copying package.xml -> /home/akshladdhs/eval_ws/install/pointcloud_seg/share/pointcloud_seg
+copying launch/pointcloud_segmentation_r2.launch.py -> /home/akshladdhs/eval_ws/install/pointcloud_seg/share/pointcloud_seg/launch
+copying config/params.yaml -> /home/akshladdhs/eval_ws/install/pointcloud_seg/share/pointcloud_seg/config
+running install_egg_info
+removing '/home/akshladdhs/eval_ws/install/pointcloud_seg/lib/python3.12/site-packages/pointcloud_seg-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/pointcloud_seg/pointcloud_seg.egg-info to /home/akshladdhs/eval_ws/install/pointcloud_seg/lib/python3.12/site-packages/pointcloud_seg-0.0.0-py3.12.egg-info
+running install_scripts
+Installing pointcloud_segmentation script to /home/akshladdhs/eval_ws/install/pointcloud_seg/lib/pointcloud_seg
+writing list of installed files to '/home/akshladdhs/eval_ws/build/pointcloud_seg/install.log'
