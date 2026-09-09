@@ -17,7 +17,6 @@ Semantic Segmentation of KITTI Point Cloud Data using SqueezeSegV2
 - A saved model, is already provided in the models folder for reference
 
 ## SqueezeSegV2 Architecture
-<img width="1160" height="318" alt="Screenshot from 2026-09-09 17-13-01" src="https://github.com/user-attachments/assets/185a8a61-7d8a-4981-8d35-a18c914805d1" />
 
 
 ## Training
@@ -29,7 +28,5 @@ The model has been trained for 40 epochs on Semantic KITTI Dataset featuring 11 
 
 
 ## Results
-
-https://github.com/user-attachments/assets/0c1f04ce-109f-4cb9-b4d0-1ff2b6145368
 
 
